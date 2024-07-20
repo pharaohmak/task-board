@@ -1,11 +1,23 @@
-# CSS Grid: Task Board
+# Project Task Board
 
-In this project, you will create a board of to-do items organized into columns. All of the HTML and most of the CSS have been written for you, but the grid property declarations have yet to be added.
+This project is a demo task board designed for organizing and managing tasks related to stuffed animal projects. The task board allows users to categorize tasks into future, active, and completed projects, as well as add new tasks dynamically.
 
-In order to complete this project, you must know how to lay out the structure of a grid’s rows and columns and place items within that grid using CSS.
+## Project Overview
 
-We recommend that you review our CSS Grid Essentials lesson before beginning.
+The website includes the following sections:
 
-The premade index.html and style.css files are displayed for you. Click this link to see the completed project in another tab. Have fun!
+- **Navbar:** 
+  - Contains a search bar and the main title of the task board.
+- **Task Columns:** 
+  - Three columns to organize tasks: Future Projects, Active Projects, and Completed Projects.
+- **Add Task Functionality:** 
+  - Allows users to add new tasks to the Completed Projects column.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+## Features
+
+- **Dynamic Task Addition:**
+  - Users can add new tasks by entering a task description and clicking the "Add" button.
+- **Date Display:**
+  - Each task card displays the current date when the task is added.
+- **Task Organization:**
+  - Tasks are organized into three categories: Future Projects, Active Projects, and Completed Projects.
